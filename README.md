@@ -162,3 +162,7 @@ See `.env.example` for all environment variables. Key settings:
 |--------|-------|---------|
 | **A — Shadow AI** | B2B per-seat | $1–$3/user/month |
 | **B — Breach Monitor** | Freemium | 1 email free → paid for more |
+
+## 👨‍💻 My Contributions
+
+This repository is my personal fork of a collaborative group project. While the core project was built as a team with FAISHAL UDDIN HIMEL, my specific contributions focused on the backend architecture, developing the REST endpoints and security logic using Python, PostgreSQL/Redis and FastAPI to support a Chrome extension sensor and an admin dashboard.
